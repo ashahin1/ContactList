@@ -1,0 +1,1 @@
+webAppCreator -out ContactList -junit "C:\eclipse\plugins\org.junit_4.11.0.v201303080030\junit.jar" com.cisco.gwt.contactlist.ContactList
